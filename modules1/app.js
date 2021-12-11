@@ -1,0 +1,3 @@
+action = require('./index');
+
+action();
